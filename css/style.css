@@ -40,6 +40,11 @@
 }
 
 
+.logo-link img {
+    display: block;
+}
+
+
 .site-header-action {
     display: flex;
     align-items: center;
