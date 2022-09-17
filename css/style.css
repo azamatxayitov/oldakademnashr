@@ -304,6 +304,16 @@
 }
 
 
+.site-footer-links a:active {
+    opacity: 0.6;
+}
+
+
+.site-footer-socials svg {
+    display: block;
+}
+
+
 .site-footer-divider {
     height: 2px;
     border: 0;
@@ -341,14 +351,4 @@
 
 .site-footer-links a {
     color: #222;
-}
-
-
-.site-footer-links a:hover {
-    color: #ff7500;
-}
-
-
-.site-footer-links a:active {
-    opacity: 0.6;
 }
